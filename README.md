@@ -113,9 +113,7 @@ data-warehouse-project/
 │ ├── gold/ # Create analytical models
 ├── tests/ # Data quality and validation tests
 ├── README.md # Project overview
-├── LICENSE # License information
-├── .gitignore # Files ignored by Git
-└── requirements.txt # Dependencies (if applicable)
+├── LICENSE # License 
 ```
 
 
